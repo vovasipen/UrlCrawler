@@ -30,13 +30,8 @@ namespace UrlCrawler
                 Console.WriteLine(string.Format($"Page: {urlKey}"));
                 foreach ( KeyValuePair<string, string> pageLinks in crawlResults[urlKey])
                 {
-                    //foreach (KeyValuePair<string, string> link in pageLinks.ToList())
                         Console.WriteLine(string.Format($"   {pageLinks.Value} : {pageLinks.Key}"));
-
-                    //Console.ReadKey();
                 }
-
-                Console.ReadKey();
             }
         }
     }

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "UrlCrawler": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
