@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrlCrawler", "UrlCrawler.csproj", "{08BCE8A4-680F-4811-A5A3-4E8FB74D6EF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08BCE8A4-680F-4811-A5A3-4E8FB74D6EF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08BCE8A4-680F-4811-A5A3-4E8FB74D6EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08BCE8A4-680F-4811-A5A3-4E8FB74D6EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08BCE8A4-680F-4811-A5A3-4E8FB74D6EF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {917F3518-D1BE-4D86-8D36-4C0EFB23CD67}
+	EndGlobalSection
+EndGlobal
