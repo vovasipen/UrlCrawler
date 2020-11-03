@@ -28,6 +28,8 @@ Docker images are ready.
 ========== Finished ==========
 
 docker exec -i -w "/app" 1ee15f9c2071417527bc56ca43c4ebe57c4fab4184a073ec38f155ef50d51350 sh -c ""dotnet" --additionalProbingPath /root/.nuget/fallbackpackages2 --additionalProbingPath /root/.nuget/fallbackpackages  \"/app/bin/Debug/netcoreapp3.1/UrlCrawler.dll\" | tee /dev/console"
+
+
 Page: https://wiprodigital.com/tag/partnership/
    LINK : https://wiprodigital.com/what-we-do/#wdwork_cases
    LINK : https://wiprodigital.com/join-our-team
